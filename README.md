@@ -3,6 +3,15 @@
 Unity XR, MediaPipe 자세 추적, Arduino 센서를 결합해 스쿼트 동작을 분석하고 실시간 피드백과 운동 후 리뷰를 제공하도록 설계한 팀 프로젝트의 코드 포트폴리오입니다.
 
 > 이 저장소는 핵심 구현과 시스템 설계를 소개하기 위한 **code-only portfolio**입니다. 전체 Unity 프로젝트, Scene/Prefab, Unity 자동 생성 캐시, 빌드 결과물, 모델 가중치, 실험 기록, 유료 또는 재배포 권한이 확인되지 않은 외부 에셋은 포함하지 않습니다. 따라서 이 저장소만으로 원본 XR 애플리케이션을 그대로 빌드하거나 실행할 수 없습니다.
+>
+<img width="3000" height="4000" alt="KakaoTalk_20261113_013523256" src="https://github.com/user-attachments/assets/c6096299-e779-4acf-8350-2e6c1efb5153" />
+https://drive.google.com/file/d/1_5jJTvkIp4bED88vzb5ZjhIisX6IqzV6/view?usp=drive_link
+
+🏆 **GIST AX-Challenge 2026 — 최우수상**
+
+웨어러블 센서와 Unity XR을 결합한 실시간 스쿼트 자세 분석 및 피드백 시스템을 개발한 팀 프로젝트입니다.
+<img width="467" height="710" alt="스크린샷 2026-09-13 170511" src="https://github.com/user-attachments/assets/1a191186-e152-48ff-84d0-8b21b3eb3f14" />
+https://juvenile-flier-c48.notion.site/EHC-AX-Challenge-5a7f4ecfcc2c825c9f8901bf347e27ba?source=copy_link
 
 ## Project Overview
 
