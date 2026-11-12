@@ -1,0 +1,61 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Bb]uild/
+[Bb]uilds/
+MemoryCaptures/
+Recordings/
+
+# IDE and generated project files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Runtime output and private configuration
+outputs/
+backend/outputs/
+backend/report_archive/
+.env
+.env.*
+!.env.example
+*.log
+
+# Builds, archives, models, and large binaries
+*.apk
+*.aab
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.zip
+*.7z
+*.rar
+*.safetensors
+*.onnx
+*.tflite
+*.blend
+*.fbx
+*.unitypackage
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
