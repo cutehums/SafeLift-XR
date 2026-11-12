@@ -4,7 +4,9 @@ Unity XR, MediaPipe 자세 추적, Arduino 센서를 결합해 스쿼트 동작�
 
 > 이 저장소는 핵심 구현과 시스템 설계를 소개하기 위한 **code-only portfolio**입니다. 전체 Unity 프로젝트, Scene/Prefab, Unity 자동 생성 캐시, 빌드 결과물, 모델 가중치, 실험 기록, 유료 또는 재배포 권한이 확인되지 않은 외부 에셋은 포함하지 않습니다. 따라서 이 저장소만으로 원본 XR 애플리케이션을 그대로 빌드하거나 실행할 수 없습니다.
 >
-<img width="3000" height="4000" alt="KakaoTalk_20261113_013523256" src="https://github.com/user-attachments/assets/c6096299-e779-4acf-8350-2e6c1efb5153" />
+<img width="300" height="400" alt="KakaoTalk_20261113_013523256" src="https://github.com/user-attachments/assets/c6096299-e779-4acf-8350-2e6c1efb5153" />
+
+데모 시현 영상
 https://drive.google.com/file/d/1_5jJTvkIp4bED88vzb5ZjhIisX6IqzV6/view?usp=drive_link
 
 🏆 **GIST AX-Challenge 2026 — 최우수상**
